@@ -1,0 +1,8 @@
+Task 1 - Netflix movies and TV shows 
+
+The Netflix dataset was cleaned using pandas.
+Duplicate rows were removed from the dataset.
+Handled missing values.
+text values were cleaned by removing extra space.
+converted into date time format.
+column names were corrected and standardized to clean and uniform.
